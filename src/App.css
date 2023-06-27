@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+ul{
+  list-style: none;
+}
+h1{
+  color: blue;
+}
+button{
+  background-color: bisque;
+  color: black;
+}
+form{
+  display: inline-flex;
+}
