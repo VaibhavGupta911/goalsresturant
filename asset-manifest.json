@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/goalsresturant/static/css/main.7154139a.css",
+    "main.js": "/goalsresturant/static/js/main.5573e213.js",
+    "static/js/787.655a5106.chunk.js": "/goalsresturant/static/js/787.655a5106.chunk.js",
+    "index.html": "/goalsresturant/index.html",
+    "main.7154139a.css.map": "/goalsresturant/static/css/main.7154139a.css.map",
+    "main.5573e213.js.map": "/goalsresturant/static/js/main.5573e213.js.map",
+    "787.655a5106.chunk.js.map": "/goalsresturant/static/js/787.655a5106.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7154139a.css",
+    "static/js/main.5573e213.js"
+  ]
+}
